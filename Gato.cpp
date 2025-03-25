@@ -18,6 +18,7 @@ void Tablero () {
 	}
 	cout << endl ;
 	
+	cout << "Hola Profe Pastor :)";
 }
 }
 int main(){
